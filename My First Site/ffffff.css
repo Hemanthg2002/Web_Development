@@ -1,0 +1,15 @@
+@charset "utf-8";
+.f {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+	background-repeat: repeat;
+	background-attachment: inherit;
+	background-position: left center;
+	word-spacing: normal;
+	letter-spacing: normal;
+	vertical-align: baseline;
+	text-align: left;
+	white-space: normal;
+}

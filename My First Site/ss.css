@@ -1,0 +1,21 @@
+@charset "utf-8";
+.ss {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: oblique;
+	line-height: normal;
+	font-weight: bold;
+	text-decoration: blink;
+	margin: 2px;
+	padding: 2px;
+	height: 443px;
+	width: 344px;
+	border-top-width: thick;
+	border-right-width: thick;
+	border-bottom-width: thick;
+	border-left-width: thick;
+	border-top-style: double;
+	border-right-style: double;
+	border-bottom-style: double;
+	border-left-style: double;
+}
